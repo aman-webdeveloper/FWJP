@@ -1,0 +1,16 @@
+
+class MethodDemo {
+
+int a,b
+void add ()
+{
+        system.out.println("Sum : " + (a + b));
+}
+
+void sub()
+{
+system.out.print;n("Diffrenece : + (a-b));
+
+}
+
+}
